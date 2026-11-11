@@ -1,0 +1,3 @@
+Model,Training Accuracy (%),Testing Accuracy (%),Cross Validation Accuracy (%)
+Decision Tree,100.0,98.53658536585365,100.0
+Random Forest,100.0,100.0,99.70731707317073
